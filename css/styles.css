@@ -1,0 +1,23 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.bug_item {
+    display: flex;
+    padding: 10px;
+}
+.bug_printscreen {
+    width: 50%;
+}
+
+.bug_text {
+    width: 50%;
+}
