@@ -21,3 +21,8 @@ img {
 .bug_text {
     width: 50%;
 }
+
+.bug_solution:before {
+    content: "Решение: ";
+    font-weight: 700;
+}
